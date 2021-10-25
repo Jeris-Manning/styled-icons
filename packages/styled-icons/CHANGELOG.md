@@ -1,5 +1,14 @@
 # styled-icons
 
+## 10.46.0
+
+### Patch Changes
+
+- Updated dependencies [[`d7640c1`](https://github.com/styled-icons/styled-icons/commit/d7640c1a164f434851c727cffb3eb9e1740f1b74)]:
+  - @styled-icons/bootstrap@10.46.0
+  - @styled-icons/octicons@10.46.0
+  - @styled-icons/simple-icons@10.46.0
+
 ## 10.45.0
 
 ### Patch Changes

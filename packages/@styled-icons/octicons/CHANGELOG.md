@@ -1,5 +1,11 @@
 # @styled-icons/octicons
 
+## 10.46.0
+
+### Minor Changes
+
+- [#1884](https://github.com/styled-icons/styled-icons/pull/1884): Update all package dependencies ([`d7640c1`](https://github.com/styled-icons/styled-icons/commit/d7640c1a164f434851c727cffb3eb9e1740f1b74), [@icon-bot](https://github.com/icon-bot))
+
 ## 10.44.0
 
 ### Minor Changes
